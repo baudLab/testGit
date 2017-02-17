@@ -1,1 +1,1 @@
-un repertoire pur tester Git
+un repository pour tester Git
